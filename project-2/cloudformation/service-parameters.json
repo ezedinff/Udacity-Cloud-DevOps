@@ -1,0 +1,18 @@
+[
+    {
+        "ParameterKey": "ProjectName",
+        "ParameterValue": "uda-prj2"
+    },
+    {
+        "ParameterKey": "EC2ImageId",
+        "ParameterValue": "ami-061dbd1209944525c"
+    },
+    {
+        "ParameterKey": "EC2InstanceType",
+        "ParameterValue": "t3.medium"
+    }, 
+    {
+        "ParameterKey": "EC2VolumeSize",
+        "ParameterValue": "10"        
+    }  
+]
